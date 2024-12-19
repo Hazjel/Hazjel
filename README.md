@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JS, and Golang
+- 🌱 I’m currently learning Golang, c++ and figma
 - 😄 Pronouns: He/him
