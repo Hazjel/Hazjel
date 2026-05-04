@@ -24,28 +24,44 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Programming Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-**Data Science & Machine Learning:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-**Design & UI/UX:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<table style="border: none; border-collapse: collapse; background-color: transparent;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; background-color: transparent;">
+      <h4>Backend</h4>
+      <img src="https://img.shields.io/badge/Go-151515?style=flat&logo=go&logoColor=00ADD8" />
+      <img src="https://img.shields.io/badge/Java-151515?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-151515?style=flat&logo=php&logoColor=777BB4" />
+      <br><br>
+      <h4>Data & AI</h4>
+      <img src="https://img.shields.io/badge/Numpy-151515?style=flat&logo=numpy&logoColor=013243" />
+      <img src="https://img.shields.io/badge/Pandas-151515?style=flat&logo=pandas&logoColor=150458" />
+      <img src="https://img.shields.io/badge/Python-151515?style=flat&logo=python&logoColor=3776AB" />
+      <br>
+      <img src="https://img.shields.io/badge/Scikit--learn-151515?style=flat&logo=scikit-learn&logoColor=F7931E" />
+      <br><br>
+      <h4>Database</h4>
+      <img src="https://img.shields.io/badge/MySQL-151515?style=flat&logo=mysql&logoColor=4479A1" />
+    </td>
+    <td width="50%" valign="top" style="border: none; background-color: transparent;">
+      <h4>Design</h4>
+      <img src="https://img.shields.io/badge/Figma-151515?style=flat&logo=figma&logoColor=F24E1E" />
+      <br><br>
+      <h4>Frontend</h4>
+      <img src="https://img.shields.io/badge/HTML_%26_CSS-151515?style=flat&logo=html5&logoColor=E34F26" />
+      <img src="https://img.shields.io/badge/JavaScript-151515?style=flat&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Laravel-151515?style=flat&logo=laravel&logoColor=FF2D20" />
+      <br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=flat&logo=tailwind-css&logoColor=06B6D4" />
+      <img src="https://img.shields.io/badge/Vue-151515?style=flat&logo=vue.js&logoColor=4FC08D" />
+      <br><br>
+      <h4>Tools</h4>
+      <img src="https://img.shields.io/badge/Git_%26_GitHub-151515?style=flat&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/Postman-151515?style=flat&logo=postman&logoColor=FF6C37" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,12 +75,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazjel&show_icons=true&theme=radical&hide_border=true" alt="Jian Hazel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazjel&theme=radical&hide_border=true" alt="Jian Hazel's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hazjel&show_icons=true&theme=tokyonight&hide_border=true" alt="Jian Hazel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazjel&theme=tokyonight&hide_border=true" alt="Jian Hazel's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazjel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hazjel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
