@@ -24,44 +24,43 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<table style="border: none; border-collapse: collapse; background-color: transparent;">
-  <tr>
-    <td width="50%" valign="top" style="border: none; background-color: transparent;">
-      <h4>Backend</h4>
-      <img src="https://img.shields.io/badge/Go-151515?style=flat&logo=go&logoColor=00ADD8" />
-      <img src="https://img.shields.io/badge/Java-151515?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-151515?style=flat&logo=php&logoColor=777BB4" />
-      <br><br>
-      <h4>Data & AI</h4>
-      <img src="https://img.shields.io/badge/Numpy-151515?style=flat&logo=numpy&logoColor=013243" />
-      <img src="https://img.shields.io/badge/Pandas-151515?style=flat&logo=pandas&logoColor=150458" />
-      <img src="https://img.shields.io/badge/Python-151515?style=flat&logo=python&logoColor=3776AB" />
-      <br>
-      <img src="https://img.shields.io/badge/Scikit--learn-151515?style=flat&logo=scikit-learn&logoColor=F7931E" />
-      <br><br>
-      <h4>Database</h4>
-      <img src="https://img.shields.io/badge/MySQL-151515?style=flat&logo=mysql&logoColor=4479A1" />
-    </td>
-    <td width="50%" valign="top" style="border: none; background-color: transparent;">
-      <h4>Design</h4>
-      <img src="https://img.shields.io/badge/Figma-151515?style=flat&logo=figma&logoColor=F24E1E" />
-      <br><br>
-      <h4>Frontend</h4>
-      <img src="https://img.shields.io/badge/HTML_%26_CSS-151515?style=flat&logo=html5&logoColor=E34F26" />
-      <img src="https://img.shields.io/badge/JavaScript-151515?style=flat&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/Laravel-151515?style=flat&logo=laravel&logoColor=FF2D20" />
-      <br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=flat&logo=tailwind-css&logoColor=06B6D4" />
-      <img src="https://img.shields.io/badge/Vue-151515?style=flat&logo=vue.js&logoColor=4FC08D" />
-      <br><br>
-      <h4>Tools</h4>
-      <img src="https://img.shields.io/badge/Git_%26_GitHub-151515?style=flat&logo=git&logoColor=F05032" />
-      <img src="https://img.shields.io/badge/Postman-151515?style=flat&logo=postman&logoColor=FF6C37" />
-    </td>
-  </tr>
-</table>
+**Backend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+**Data & AI:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+**Database:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Frontend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML_%26_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+**Design & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
