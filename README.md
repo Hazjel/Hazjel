@@ -17,9 +17,10 @@ Informatics student at Telkom University (graduating 2027) building production w
 | [Blukios](https://github.com/Hazjel/marketplace) · [live](https://blukios.store) | Multi-vendor marketplace in production: Laravel REST API, Vue 3 buyer/seller apps, RAG shopping assistant, and a recommendation service. Jenkins CI/CD. | Laravel, Vue 3, FastAPI, Ollama, Chroma, MySQL, MongoDB |
 | [Jakarta Routes](https://github.com/Hazjel/sistem-rekomendasi-destinasi-wisata-jakarta) · [app](https://web-wisata-jakarta.vercel.app) | Multi-day itinerary recommender over 166 venues and 412K real check-ins. Content-based filtering plus GWO-TS, GA, and PSO route optimization. Published research. | Python, FastAPI, React, OSRM |
 | [Chest X-ray multimodal fusion](https://github.com/Hazjel/multimodal-fusion-thoracic-disease) | Thesis: does patient metadata add value to image features on NIH ChestX-ray14? Frozen protocol, five-fold OOF evaluation, SHAP, and Grad-CAM. | PyTorch, ResNet-50 |
-| [DemandSense](https://github.com/Hazjel/DemandSense) | Leakage-safe demand forecasting on the M5 dataset (3,044 series): baselines vs XGBoost vs a time-series foundation model, with inventory impact analysis. | Python, XGBoost, PyTorch, Docker |
+| [Blukios Mobile](https://github.com/Hazjel/marketplace-mobile) | Flutter client for the Blukios marketplace: clean architecture, secure token storage, and cached image loading against the Laravel 12 API. | Flutter, Dart, Dio, Provider, GoRouter |
 | [Yelp sentiment at scale](https://github.com/Hazjel/big-data-ai-sentiment) | Spark pipeline over 6.99M reviews plus fine-tuned DistilBERT: 92.35% accuracy, 0.92 weighted F1. | Apache Spark, DistilBERT |
 | [Credit risk prediction](https://github.com/Hazjel/credit-risk-prediction-final-task) | Default prediction on 466K+ Lending Club loans, with threshold tuning to reduce false negatives. | Python, XGBoost |
+| [Dapur Ovaltin](https://github.com/Hazjel/ovaltin) · [live](https://dapurovaltin.com) | Community-service web app for a strawberry-product home business: sales recording with Excel import, demand forecasting, WhatsApp reminders, and an admin back-office. | Laravel 12, Tailwind, Alpine.js, MySQL |
 
 ## Tech stack
 
