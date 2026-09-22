@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Jian Hazel Sitorus, Informatics at Telkom University and Web Developer Intern at PLN. A route through five milestones: enrolled at Telkom in 2023, research assistant at HUMIC in April 2026, published in JADIMI in August 2026, interning at PLN from August 2026, graduating in 2027. 1,905 contributions in the last year across 15 public repositories, peak 126 in a single day.">
+  <title>Jian Hazel Sitorus</title>
+  <!--stats:{"total":"1,905","peak":"126","repos":"15"}-->
+
+  <style>
+    /* The header draws the object of my research: a route visiting waypoints in
+       the order that costs least. The waypoints are real milestones, the runner
+       moves left to right because that axis is time, and amber marks only the
+       route and the point it has reached. Sans for the person, mono for
+       anything a machine reports. */
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace }
+    .s { font-family: "Segoe UI", Inter, -apple-system, "Helvetica Neue", Arial, sans-serif }
+    .accent { fill: #ffb000 }
+    .name { fill: #f2eee6 }
+    .lead { fill: #cfcbc3 }
+    .meta { fill: #96959d }
+    .quiet { fill: #86858e }
+
+    .fade { opacity: 0; animation: fade .4s ease-out forwards }
+    .f1{animation-delay:.05s} .f2{animation-delay:.22s} .f3{animation-delay:.38s}
+    @keyframes fade { to { opacity: 1 } }
+
+    /* the route solves itself once, then the runner keeps walking it */
+    #route { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: solve 2.6s cubic-bezier(.33,.9,.3,1) .35s forwards }
+    @keyframes solve { to { stroke-dashoffset: 0 } }
+
+    /* each stop appears as the route reaches it */
+    .stop { opacity: 0; animation: fade .45s ease-out forwards }
+    .s1{animation-delay:.5s} .s2{animation-delay:1.05s} .s3{animation-delay:1.6s}
+    .s4{animation-delay:2.15s} .s5{animation-delay:2.7s}
+
+    .runner {
+      offset-path: path("M92 214C124.3 203.0 218.3 149.3 286 148C353.7 146.7 428.0 208.0 498 206C568.0 204.0 637.7 140.7 706 136C774.3 131.3 874.3 171.0 908 178");
+      animation: walk 9s cubic-bezier(.5,0,.5,1) 3.1s infinite;
+    }
+    @keyframes walk { 0%,4% { offset-distance: 0% } 96%,100% { offset-distance: 100% } }
+
+    .halo { animation: halo 2.4s ease-out infinite }
+    @keyframes halo { 0% { r: 5; opacity: .5 } 100% { r: 14; opacity: 0 } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .fade,.stop,#route,.runner,.halo { animation: none }
+      .fade,.stop { opacity: 1 }
+      #route { stroke-dashoffset: 0 }
+      .runner { offset-distance: 100% }
+      .halo { display: none }
+    }
+  </style>
+
+  <rect width="1000" height="300" fill="#0b0b0c"/>
+
+  <!-- who -->
+  <text x="56" y="70" font-size="40" font-weight="600" class="s name fade f1">Jian Hazel Sitorus</text>
+  <text x="56" y="92" font-size="13" class="m meta fade f2">Full-stack developer and applied ML, currently at PT PLN</text>
+
+  <!-- the route: five stops, in the order they happened -->
+  <path id="route" fill="none" stroke="#ffb000" stroke-width="1.6" stroke-linecap="round"
+        d="M92 214C124.3 203.0 218.3 149.3 286 148C353.7 146.7 428.0 208.0 498 206C568.0 204.0 637.7 140.7 706 136C774.3 131.3 874.3 171.0 908 178"/>
+
+  <g class="m" font-size="11.5">
+    <g class="stop s1">
+      <circle cx="92" cy="214" r="4" fill="#0b0b0c" stroke="#ffb000" stroke-width="1.6"/>
+      <text x="92" y="240" class="lead" text-anchor="middle">enrolled</text>
+      <text x="92" y="256" class="quiet" text-anchor="middle">2023</text>
+    </g>
+    <g class="stop s2">
+      <circle cx="286" cy="148" r="4" fill="#0b0b0c" stroke="#ffb000" stroke-width="1.6"/>
+      <text x="286" y="118" class="lead" text-anchor="middle">HUMIC research</text>
+      <text x="286" y="134" class="quiet" text-anchor="middle">Apr 2026</text>
+    </g>
+    <g class="stop s3">
+      <circle cx="498" cy="206" r="4" fill="#0b0b0c" stroke="#ffb000" stroke-width="1.6"/>
+      <text x="498" y="232" class="lead" text-anchor="middle">JADIMI paper</text>
+      <text x="498" y="248" class="quiet" text-anchor="middle">Aug 2026</text>
+    </g>
+    <g class="stop s4">
+      <circle cx="706" cy="136" r="4" fill="#0b0b0c" stroke="#ffb000" stroke-width="1.6"/>
+      <text x="706" y="106" class="lead" text-anchor="middle">PLN internship</text>
+      <text x="706" y="122" class="quiet" text-anchor="middle">Aug 2026</text>
+    </g>
+    <g class="stop s5">
+      <circle cx="908" cy="178" r="4.5" class="accent"/>
+      <text x="908" y="204" class="lead" text-anchor="middle">graduating</text>
+      <text x="908" y="220" class="quiet" text-anchor="middle">2027</text>
+    </g>
+  </g>
+
+  <g class="runner">
+    <circle class="halo accent" r="5"/>
+    <circle r="3.5" class="accent"/>
+  </g>
+
+  <!-- what the machine reports, rewritten daily by scripts/build-profile.mjs -->
+  <rect class="fade f3" x="56" y="266" width="888" height="1" fill="#242428"/>
+  <g class="m quiet fade f3" font-size="12">
+    <text x="56" y="290">1,905 contributions · 15 public repos · peak 126 in a day</text>
+    <text x="944" y="290" text-anchor="end">open to software engineering, data and AI internships</text>
+  </g>
+</svg>
