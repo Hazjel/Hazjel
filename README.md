@@ -2,12 +2,13 @@
 
 ### `› now`
 
-Building internal web tooling at **PT PLN (Persero)** as a Web Developer Intern, and finishing my final-year thesis on whether patient metadata adds predictive value to chest X-ray models.
+Building **PLN OneSpace**, the internal booking system for PLN UPDL Suralaya, as a Web Developer Intern. Alongside it, finishing my final-year thesis on whether patient metadata adds predictive value to chest X-ray models.
 
 ### `› selected work`
 
 | | | |
 |---|---|---|
+| **PLN OneSpace** <br> internship, private repo | Booking system for rooms, dormitories, and facilities at PLN UPDL Suralaya, with role-based approval and a utilisation dashboard. Double booking is refused by a PostgreSQL exclusion constraint over time ranges instead of a check-then-insert in application code, so two concurrent requests cannot both win. Over 700 test cases across 74 files. | `Laravel` `Inertia` `React` `TypeScript` `PostgreSQL` |
 | **[Blukios](https://github.com/Hazjel/marketplace)** <br> [blukios.store](https://blukios.store) | Multi-vendor marketplace running in production. Laravel REST API, Vue 3 buyer and seller apps, a retrieval-augmented shopping assistant, and a separate recommendation service, shipped through Jenkins. | `Laravel 12` `Vue 3` `FastAPI` `Ollama` `MySQL` `MongoDB` |
 | **[Jakarta Routes](https://github.com/Hazjel/sistem-rekomendasi-destinasi-wisata-jakarta)** <br> [live app](https://web-wisata-jakarta.vercel.app) | Multi-day itinerary planner across 166 venues and 412K real check-ins. Content-based filtering picks candidates, a hybrid Grey Wolf Optimizer and Tabu Search orders them around opening hours, budget, and travel time. Published in JADIMI 2026. | `Python` `FastAPI` `React` `OSRM` |
 | **[Chest X-ray fusion](https://github.com/Hazjel/multimodal-fusion-thoracic-disease)** | Thesis. Metadata-only, image-only, and fused models on NIH ChestX-ray14, under a protocol frozen before training, with paired five-fold evaluation, calibration, SHAP, and Grad-CAM. | `PyTorch` `ResNet-50` |
