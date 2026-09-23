@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Jian Hazel Sitorus, Informatics at Telkom University and Web Developer Intern at PLN. A route through five milestones: enrolled at Telkom in 2023, research assistant at HUMIC in April 2026, published in JADIMI in August 2026, interning at PLN from August 2026, graduating in 2027. 1,739 contributions in the last year across 15 active repositories, peak 126 in a single day.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Jian Hazel Sitorus, Informatics at Telkom University and Web Developer Intern at PLN. A route through five milestones: enrolled at Telkom in 2023, research assistant at HUMIC in April 2026, published in JADIMI in August 2026, interning at PLN from August 2026, graduating in 2027. 1,741 contributions in the last year across 15 active repositories, peak 126 in a single day.">
   <title>Jian Hazel Sitorus</title>
-  <!--stats:{"total":"1,739","peak":"126","repos":"15"}-->
+  <!--stats:{"total":"1,741","peak":"126","repos":"15"}-->
 
   <style>
     /* The header draws the object of my research: a route visiting waypoints in
@@ -93,7 +93,7 @@
   <!-- what the machine reports, rewritten daily by scripts/build-profile.mjs -->
   <rect class="fade f3" x="56" y="266" width="888" height="1" fill="#242428"/>
   <g class="m quiet fade f3" font-size="12">
-    <text x="56" y="290">1,739 contributions · 15 active repos · peak 126 in a day</text>
+    <text x="56" y="290">1,741 contributions · 15 active repos · peak 126 in a day</text>
     <text x="944" y="290" text-anchor="end">open to software engineering, data and AI internships</text>
   </g>
 </svg>
