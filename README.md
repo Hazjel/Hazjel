@@ -28,9 +28,9 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 
 ### `› recently pushed`
 
-- **[marketplace](https://github.com/Hazjel/marketplace)** · 2 Oct 2026<br>Multi-vendor e-commerce marketplace: Laravel 12 API, Vue 3 buyer and seller apps, FastAPI services for an Ollama/Qwen chat assistant and product recommendations.
-- **[marketplace-mobile](https://github.com/Hazjel/marketplace-mobile)** · 2 Oct 2026<br>Flutter mobile client for the Blukios marketplace: clean architecture, Dio, Provider, GoRouter, and secure token storage against the Laravel 12 API.
-- **[DemandSense](https://github.com/Hazjel/DemandSense)** · 15 Sept 2026<br>Leakage-safe demand forecasting and inventory decision support on the M5 dataset (3,044 series): baselines vs XGBoost vs a time-series foundation model.
+- **[marketplace](https://github.com/Hazjel/marketplace)** · 3 Oct 2026<br>Multi-vendor e-commerce marketplace: Laravel 12 API, Vue 3 buyer and seller apps, FastAPI services for an Ollama/Qwen chat assistant and product recommendations.
+- **[marketplace-mobile](https://github.com/Hazjel/marketplace-mobile)** · 3 Oct 2026<br>Flutter mobile client for the Blukios marketplace: clean architecture, Dio, Provider, GoRouter, and secure token storage against the Laravel 12 API.
+- **[jian-hazel-sitorus](https://github.com/Hazjel/jian-hazel-sitorus)** · 3 Oct 2026<br>No description yet.
 
 ### `› contributions`
 
@@ -41,4 +41,4 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 Open to Software Engineering, Data, and AI internships.
 [LinkedIn](https://linkedin.com/in/jianhazel) · [sihazel.com](https://sihazel.com)
 
-<sub>This page rebuilds itself every day from the GitHub API. Last run 3 October 2026.</sub>
+<sub>This page rebuilds itself every day from the GitHub API. Last run 4 October 2026.</sub>
