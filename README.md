@@ -28,8 +28,8 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 
 ### `› recently pushed`
 
+- **[marketplace](https://github.com/Hazjel/marketplace)** · 19 Oct 2026<br>Multi-vendor e-commerce marketplace: Laravel 12 API, Vue 3 buyer and seller apps, FastAPI services for an Ollama/Qwen chat assistant and product recommendations.
 - **[marketplace-mobile](https://github.com/Hazjel/marketplace-mobile)** · 11 Oct 2026<br>Flutter mobile client for the Blukios marketplace: clean architecture, Dio, Provider, GoRouter, and secure token storage against the Laravel 12 API.
-- **[marketplace](https://github.com/Hazjel/marketplace)** · 11 Oct 2026<br>Multi-vendor e-commerce marketplace: Laravel 12 API, Vue 3 buyer and seller apps, FastAPI services for an Ollama/Qwen chat assistant and product recommendations.
 - **[jian-hazel-sitorus](https://github.com/Hazjel/jian-hazel-sitorus)** · 3 Oct 2026<br>No description yet.
 
 ### `› contributions`
@@ -41,4 +41,4 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 Open to Software Engineering, Data, and AI internships.
 [LinkedIn](https://linkedin.com/in/jianhazel) · [sihazel.com](https://sihazel.com)
 
-<sub>This page rebuilds itself every day from the GitHub API. Last run 19 October 2026.</sub>
+<sub>This page rebuilds itself every day from the GitHub API. Last run 20 October 2026.</sub>
