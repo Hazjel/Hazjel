@@ -28,9 +28,9 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 
 ### `› recently pushed`
 
+- **[cyclegan-midterm](https://github.com/Hazjel/cyclegan-midterm)** · 31 Oct 2026<br>No description yet.
 - **[jian-hazel-sitorus](https://github.com/Hazjel/jian-hazel-sitorus)** · 30 Oct 2026<br>No description yet.
 - **[marketplace](https://github.com/Hazjel/marketplace)** · 30 Oct 2026<br>Multi-vendor e-commerce marketplace: Laravel 12 API, Vue 3 buyer and seller apps, FastAPI services for an Ollama/Qwen chat assistant and product recommendations.
-- **[cyclegan-midterm](https://github.com/Hazjel/cyclegan-midterm)** · 28 Oct 2026<br>No description yet.
 
 ### `› contributions`
 
@@ -41,4 +41,4 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 Open to Software Engineering, Data, and AI internships.
 [LinkedIn](https://linkedin.com/in/jianhazel) · [sihazel.com](https://sihazel.com)
 
-<sub>This page rebuilds itself every day from the GitHub API. Last run 31 October 2026.</sub>
+<sub>This page rebuilds itself every day from the GitHub API. Last run 1 November 2026.</sub>
