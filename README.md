@@ -28,9 +28,9 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 
 ### `› recently pushed`
 
+- **[seq-transit-pulse](https://github.com/Hazjel/seq-transit-pulse)** · 21 Nov 2026<br>SEQ Transit in Motion: Translink OD passengers 2016-2026 on an interactive map (DataNova 2026, Team Pengen Lulus)
 - **[web-wisata-jakarta](https://github.com/Hazjel/web-wisata-jakarta)** · 19 Nov 2026<br>React frontend for Jakarta Routes: builds multi-day travel itineraries with interactive OSRM maps and per-day route optimization.
 - **[jian-hazel-sitorus](https://github.com/Hazjel/jian-hazel-sitorus)** · 19 Nov 2026<br>No description yet.
-- **[marketplace](https://github.com/Hazjel/marketplace)** · 14 Nov 2026<br>Multi-vendor e-commerce marketplace: Laravel 12 API, Vue 3 buyer and seller apps, FastAPI services for an Ollama/Qwen chat assistant and product recommendations.
 
 ### `› contributions`
 
@@ -41,4 +41,4 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 Open to Software Engineering, Data, and AI internships.
 [LinkedIn](https://linkedin.com/in/jianhazel) · [sihazel.com](https://sihazel.com)
 
-<sub>This page rebuilds itself every day from the GitHub API. Last run 20 November 2026.</sub>
+<sub>This page rebuilds itself every day from the GitHub API. Last run 21 November 2026.</sub>
