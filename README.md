@@ -28,9 +28,9 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 
 ### `› recently pushed`
 
+- **[pair-sulawesi-sketch](https://github.com/Hazjel/pair-sulawesi-sketch)** · 23 Nov 2026<br>Sketsa dasbor PAIR Sulawesi - DATA CONTOH, bukan hasil survei
 - **[dashboard-kapal](https://github.com/Hazjel/dashboard-kapal)** · 23 Nov 2026<br>Dashboard pelacakan kapal: jalur pelayaran dunia (Benden 2022, CC BY 4.0) dengan kapal simulasi, dibuat dengan D3
 - **[seq-transit-pulse](https://github.com/Hazjel/seq-transit-pulse)** · 21 Nov 2026<br>SEQ Transit in Motion: Translink OD passengers 2016-2026 on an interactive map (DataNova 2026, Team Pengen Lulus)
-- **[web-wisata-jakarta](https://github.com/Hazjel/web-wisata-jakarta)** · 19 Nov 2026<br>React frontend for Jakarta Routes: builds multi-day travel itineraries with interactive OSRM maps and per-day route optimization.
 
 ### `› contributions`
 
@@ -41,4 +41,4 @@ infra       mysql · mongodb · chroma · docker · jenkins · git
 Open to Software Engineering, Data, and AI internships.
 [LinkedIn](https://linkedin.com/in/jianhazel) · [sihazel.com](https://sihazel.com)
 
-<sub>This page rebuilds itself every day from the GitHub API. Last run 23 November 2026.</sub>
+<sub>This page rebuilds itself every day from the GitHub API. Last run 24 November 2026.</sub>
